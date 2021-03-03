@@ -11,11 +11,11 @@ var main = $('#main');
 var initScroll = 0;
 
 $('#basic-training').click(function() {
-    var win = window.open('https://andrei-pascu.github.io/Basic-Training/', '_blank');
+    var win = window.open('https://bishop-of-intensity.github.io/Basic-Training/', '_blank');
     win.focus();
 });
 $('#github').click(function() {
-    var win = window.open('https://github.com/andrei-pascu', '_blank');
+    var win = window.open('https://github.com/bishop-of-intensity', '_blank');
     win.focus();
 });
 $('#youtube').click(function() {
@@ -23,7 +23,7 @@ $('#youtube').click(function() {
     win.focus();
 });
 $('#contact-insta').click(function() {
-    var win = window.open('https://www.instagram.com/cristianandpascu_for_alexand_g/', '_blank');
+    var win = window.open('https://www.instagram.com/bishop_of_intensity/', '_blank');
     win.focus();
 });
 
