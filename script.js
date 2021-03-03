@@ -127,20 +127,20 @@ $(document).ready(function() {
 
 
 
-setTimeout(function() {
-}, 7000)
+// setTimeout(function() {
+// }, 7000)
 
-$('.AW-Minimize').click(function() {
-    $(this).parent().parent().addClass('AW-closed');
-    $(this).parent().parent().removeClass('AW-expanded');
-});
+// $('.AW-Minimize').click(function() {
+//     $(this).parent().parent().addClass('AW-closed');
+//     $(this).parent().parent().removeClass('AW-expanded');
+// });
 
-$('.AW-Maximize').click(function() {
-    $(this).parent().parent().removeClass('AW-closed');
-    $(this).parent().parent().addClass('AW-expanded');
-});
+// $('.AW-Maximize').click(function() {
+//     $(this).parent().parent().removeClass('AW-closed');
+//     $(this).parent().parent().addClass('AW-expanded');
+// });
 
-$('.AW-link').click(function() {
-    window.open('https://andrei-pascu.github.io/Arm-Wrestling/', '_blank');
-})
+// $('.AW-link').click(function() {
+//     window.open('https://andrei-pascu.github.io/Arm-Wrestling/', '_blank');
+// })
 
